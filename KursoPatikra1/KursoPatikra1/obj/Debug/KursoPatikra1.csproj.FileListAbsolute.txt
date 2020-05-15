@@ -1,0 +1,7 @@
+D:\VS2017 bandymai\KursoPatikra1\KursoPatikra1\bin\Debug\KursoPatikra1.exe.config
+D:\VS2017 bandymai\KursoPatikra1\KursoPatikra1\bin\Debug\KursoPatikra1.exe
+D:\VS2017 bandymai\KursoPatikra1\KursoPatikra1\bin\Debug\KursoPatikra1.pdb
+D:\VS2017 bandymai\KursoPatikra1\KursoPatikra1\obj\Debug\KursoPatikra1.csprojAssemblyReference.cache
+D:\VS2017 bandymai\KursoPatikra1\KursoPatikra1\obj\Debug\KursoPatikra1.csproj.CoreCompileInputs.cache
+D:\VS2017 bandymai\KursoPatikra1\KursoPatikra1\obj\Debug\KursoPatikra1.exe
+D:\VS2017 bandymai\KursoPatikra1\KursoPatikra1\obj\Debug\KursoPatikra1.pdb
